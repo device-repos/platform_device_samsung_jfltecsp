@@ -1,2 +1,2 @@
-add_lunch_combo cm_jfltecsp-eng
+add_lunch_combo full_jfltecsp-userdebug
 
