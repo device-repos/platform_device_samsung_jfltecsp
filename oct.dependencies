@@ -10,9 +10,5 @@
   {
     "repository": "android_device_samsung_jf-common",
     "target_path": "device/samsung/jf-common"
-  },
-  {
-    "repository": "android_hardware_samsung",
-    "target_path": "hardware/samsung"
   }
 ]
