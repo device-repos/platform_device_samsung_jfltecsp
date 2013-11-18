@@ -9,7 +9,7 @@ $(call inherit-product, vendor/oct/config/nfc_enhanced.mk)
 # Inherit some common OCT stuff.
 $(call inherit-product, vendor/oct/config/common_full_phone.mk)
 
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=jfltecsp TARGET_DEVICE=jfltecsp BUILD_FINGERPRINT="samsung/oct_jfltecsp/jfltecsp:4.4/KRT16M/user/release-keys" PRIVATE_BUILD_DESC="jfltecsp-user 4.4 KRT16M release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=jfltecsp TARGET_DEVICE=jfltecsp BUILD_FINGERPRINT="samsung/oct_jfltecsp/jfltecsp:4.4/KRT16O/user/release-keys" PRIVATE_BUILD_DESC="jfltecsp-user 4.4 KRT16O release-keys"
 
 PRODUCT_DEVICE := jfltecsp
 PRODUCT_NAME := oct_jfltecsp
